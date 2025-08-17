@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body {
+  @apply bg-black text-white
+}
+.outlet{
+    @apply pt-10
+}
